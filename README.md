@@ -1,0 +1,2 @@
+# zappos.amazon.com
+subdomaintakeover
